@@ -5,11 +5,11 @@ I go by 21bits around the internet. I've been writing code on-and-off since I di
 ## My Interests
 
 I'm trying to walk before I start running with some simple projects and contributions, but as time goes on, I'm looking to focus on:
-  * Apple ecosystem apps
-  * Graphics
-  * Cryptography, steganography, and security
-  * Audio
-  * Open-source games
+  * 🍎Apple ecosystem apps
+  * 🖥️Graphics
+  * 🔏Cryptography, steganography, and security
+  * 🔊Audio
+  * 🎮Open-source games
 
 ## Current Focus
 
