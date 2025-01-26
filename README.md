@@ -2,6 +2,12 @@
 
 I go by 21bits around the internet. I've been writing code on-and-off since I discovered QBasic on an old NT workstation at age ten. A decade or two later, I've decided to get serious about my interest in software and start practicing the programming craft daily. I'm looking forward to turning the shambling piles of spaghetti I'm writing now into something new and exciting.
 
+## Skills & Tech
+
+ * Languages: Java, C/C++, Python, Swift
+ * Tools: Xcode, Visual Studio, IntelliJ
+ * OSes: MacOS, Windows 10/11, Arch Linux
+
 ## My Interests
 
 I'm trying to walk before I start running with some simple projects and contributions, but as time goes on, I'm looking to focus on:
