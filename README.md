@@ -19,8 +19,7 @@ I'm trying to walk before I start running with some simple projects and contribu
 
 ## Current Focus
 
-Right now, I'm working on picking up the basics of the Swift programming language with BlueMountains, a framework for authoring old-school text adventure/interactive fiction games that run in the Mac terminal. Great for hiding on your school mainframe in 1978!
-
+Right now, I'm working on picking up the essentials of programing for the Apple ecosystem by writing a plethora of tiny tools and games. come back every once in a while and see if something new catches your eye!
 <!---
 21bits-workshop/21bits-workshop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
