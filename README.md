@@ -29,6 +29,7 @@ I’m a creator and longtime hobbyist dev looking to get a little more serious a
 **Creative Software:**
 - **Visual Arts:** Procreate & Clip Studio Paint
 - **Audio:** Ableton Live 11
+---
 
 ### 🌐HMU
 You can find me other places on the internet too! I have a personal website and gallery [here](http://21b.space)…
