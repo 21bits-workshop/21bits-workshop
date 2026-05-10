@@ -33,5 +33,7 @@ I’m a creator and longtime hobbyist dev looking to get a little more serious a
 
 ### 🌐HMU
 You can find me other places on the internet too! I have a personal website and gallery [here](http://21b.space)…
+
 An itch.io page for my game dev endeavors [here](https://21bits.itch.io)…
+
 And I very occasionally do the social media thing on bluesky @ta-ko-mo.
