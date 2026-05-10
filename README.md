@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 # Hey, I'm Takomo.
 
 🎵 Musician | 🎨 Visual Artist | 💻 Programmer
-
+---
 I’m a creator and longtime hobbyist dev looking to get a little more serious about my programming work. My main interests lie in game development, creating modern utilities that center the command line, and finding responsible uses for LLMs and other AI technologies.
 ---
 
