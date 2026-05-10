@@ -18,6 +18,7 @@ I’m a creator and longtime hobbyist dev looking to get a little more serious a
 
 ### 🚀 Skills & Tools
 **Programming & Tech:**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
