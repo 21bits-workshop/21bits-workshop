@@ -26,6 +26,8 @@ I’m a creator and longtime hobbyist dev looking to get a little more serious a
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
 
 **Creative Software:**
 - **Visual Arts:** Procreate & Clip Studio Paint
