@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 I’m a creator and longtime hobbyist dev looking to get a little more serious about my programming work. My main interests lie in game development, creating modern utilities that center the command line, and finding responsible uses for LLMs and other AI technologies.
 
+---
 ### 🛠️ Current Projects…
 
 - 💻 **Coding:** I currently have two projects in their early stages: One is a dimension-shifting roguelike RPG with the working title “hex”, and the other is Soapstone, a terminal-centric creative writing app designed to run absolutely everywhere.
